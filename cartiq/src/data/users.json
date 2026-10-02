@@ -1,0 +1,98 @@
+[
+  {
+    "id": "u001",
+    "name": "Aarav Shah",
+    "email": "aarav@example.com",
+    "password": "test123",
+    "role": "customer",
+    "persona": "student",
+    "budget": 50000,
+    "seniorMode": false,
+    "wishlist": [],
+    "orderHistory": []
+  },
+  {
+    "id": "u002",
+    "name": "Priya Sharma",
+    "email": "priya@example.com",
+    "password": "test123",
+    "role": "customer",
+    "persona": "professional",
+    "budget": 100000,
+    "seniorMode": false,
+    "wishlist": [],
+    "orderHistory": []
+  },
+  {
+    "id": "u003",
+    "name": "Rohan Patel",
+    "email": "rohan@example.com",
+    "password": "test123",
+    "role": "customer",
+    "persona": "gamer",
+    "budget": 75000,
+    "seniorMode": false,
+    "wishlist": [],
+    "orderHistory": []
+  },
+  {
+    "id": "u004",
+    "name": "Neha Gupta",
+    "email": "neha@example.com",
+    "password": "test123",
+    "role": "customer",
+    "persona": "budget_shopper",
+    "budget": 25000,
+    "seniorMode": false,
+    "wishlist": [],
+    "orderHistory": []
+  },
+  {
+    "id": "u005",
+    "name": "Mr. Sharma",
+    "email": "sharma@example.com",
+    "password": "test123",
+    "role": "customer",
+    "persona": "senior",
+    "budget": 60000,
+    "seniorMode": true,
+    "wishlist": [],
+    "orderHistory": []
+  },
+  {
+    "id": "u006",
+    "name": "TechZone Seller",
+    "email": "seller@techzone.com",
+    "password": "test123",
+    "role": "seller",
+    "persona": null,
+    "budget": null,
+    "seniorMode": false,
+    "wishlist": [],
+    "orderHistory": []
+  },
+  {
+    "id": "u007",
+    "name": "Delivery Partner",
+    "email": "delivery@cartiq.com",
+    "password": "test123",
+    "role": "delivery",
+    "persona": null,
+    "budget": null,
+    "seniorMode": false,
+    "wishlist": [],
+    "orderHistory": []
+  },
+  {
+    "id": "u008",
+    "name": "Admin User",
+    "email": "admin@cartiq.com",
+    "password": "test123",
+    "role": "admin",
+    "persona": null,
+    "budget": null,
+    "seniorMode": false,
+    "wishlist": [],
+    "orderHistory": []
+  }
+]

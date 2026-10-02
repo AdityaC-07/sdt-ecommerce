@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html.senior {
+  font-size: 120%;
+  letter-spacing: 0.01em;
+}
+
+html.senior button {
+  min-height: 52px;
+  min-width: 120px;
+  border-width: 2px;
+}
+
+html.senior input,
+html.senior select {
+  min-height: 52px;
+  font-size: 1.1rem;
+}
+
+html.senior a {
+  text-decoration: underline;
+  color: #1E40AF;
+}
+
+html.senior .text-xs,
+html.senior .text-sm {
+  font-size: 1rem;
+}
+
+html.senior nav a {
+  padding: 12px 16px;
+}
+
+@keyframes slide-in {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide-in {
+  animation: slide-in 0.3s ease-out;
+}

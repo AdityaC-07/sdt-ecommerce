@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cat01",
+    "name": "Laptops",
+    "icon": "Laptop",
+    "subcategories": ["Gaming", "Ultrabook", "Business", "Student"]
+  },
+  {
+    "id": "cat02",
+    "name": "Headphones",
+    "icon": "Headphones",
+    "subcategories": ["Over-ear", "In-ear", "On-ear"]
+  },
+  {
+    "id": "cat03",
+    "name": "Smartphones",
+    "icon": "Smartphone",
+    "subcategories": ["Flagship", "Mid-range", "Budget"]
+  },
+  {
+    "id": "cat04",
+    "name": "Cameras",
+    "icon": "Camera",
+    "subcategories": ["Mirrorless", "DSLR", "Action", "Compact"]
+  },
+  {
+    "id": "cat05",
+    "name": "Smartwatches",
+    "icon": "Watch",
+    "subcategories": ["Premium", "Sports", "Fashion", "Budget"]
+  }
+]

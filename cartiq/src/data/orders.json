@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ord001",
+    "userId": "u001",
+    "items": [
+      {
+        "productId": "p001",
+        "name": "Dell XPS 15",
+        "quantity": 1,
+        "price": 68999
+      }
+    ],
+    "status": "Out for Delivery",
+    "placedAt": "2026-09-28",
+    "estimatedDelivery": "2026-10-02",
+    "trackingSteps": [
+      { "step": "Order Placed", "done": true },
+      { "step": "Packed", "done": true },
+      { "step": "Shipped", "done": true },
+      { "step": "Out for Delivery", "done": true },
+      { "step": "Delivered", "done": false }
+    ],
+    "total": 68999,
+    "paymentMethod": "UPI"
+  },
+  {
+    "id": "ord002",
+    "userId": "u002",
+    "items": [
+      {
+        "productId": "p006",
+        "name": "Sony WH-1000XM5",
+        "quantity": 1,
+        "price": 29990
+      }
+    ],
+    "status": "Delivered",
+    "placedAt": "2026-09-20",
+    "estimatedDelivery": "2026-09-25",
+    "trackingSteps": [
+      { "step": "Order Placed", "done": true },
+      { "step": "Packed", "done": true },
+      { "step": "Shipped", "done": true },
+      { "step": "Out for Delivery", "done": true },
+      { "step": "Delivered", "done": true }
+    ],
+    "total": 29990,
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": "ord003",
+    "userId": "u003",
+    "items": [
+      {
+        "productId": "p003",
+        "name": "Lenovo Legion 5",
+        "quantity": 1,
+        "price": 75000
+      }
+    ],
+    "status": "Shipped",
+    "placedAt": "2026-09-29",
+    "estimatedDelivery": "2026-10-03",
+    "trackingSteps": [
+      { "step": "Order Placed", "done": true },
+      { "step": "Packed", "done": true },
+      { "step": "Shipped", "done": true },
+      { "step": "Out for Delivery", "done": false },
+      { "step": "Delivered", "done": false }
+    ],
+    "total": 75000,
+    "paymentMethod": "Net Banking"
+  },
+  {
+    "id": "ord004",
+    "userId": "u004",
+    "items": [
+      {
+        "productId": "p008",
+        "name": "JBL Tune 760NC",
+        "quantity": 2,
+        "price": 5999
+      }
+    ],
+    "status": "Packed",
+    "placedAt": "2026-09-30",
+    "estimatedDelivery": "2026-10-04",
+    "trackingSteps": [
+      { "step": "Order Placed", "done": true },
+      { "step": "Packed", "done": true },
+      { "step": "Shipped", "done": false },
+      { "step": "Out for Delivery", "done": false },
+      { "step": "Delivered", "done": false }
+    ],
+    "total": 11998,
+    "paymentMethod": "UPI"
+  },
+  {
+    "id": "ord005",
+    "userId": "u001",
+    "items": [
+      {
+        "productId": "p021",
+        "name": "Apple Watch Series 9",
+        "quantity": 1,
+        "price": 41900
+      }
+    ],
+    "status": "Order Placed",
+    "placedAt": "2026-10-01",
+    "estimatedDelivery": "2026-10-05",
+    "trackingSteps": [
+      { "step": "Order Placed", "done": true },
+      { "step": "Packed", "done": false },
+      { "step": "Shipped", "done": false },
+      { "step": "Out for Delivery", "done": false },
+      { "step": "Delivered", "done": false }
+    ],
+    "total": 41900,
+    "paymentMethod": "UPI"
+  }
+]
