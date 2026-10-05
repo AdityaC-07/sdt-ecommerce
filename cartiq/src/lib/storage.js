@@ -21,7 +21,7 @@ const storage = {
   },
   remove: (key) => {
     try {
-      localStorage.removeItem(getKey(key))
+      localStorage.removeItem(key.startsWith('cartiq:') ? key : getKey(key))
     } catch {
       // ignore storage errors
     }
