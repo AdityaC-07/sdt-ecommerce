@@ -20,5 +20,6 @@ export const ROUTES = {
   ADMIN_PRODUCTS: '/admin/products',
   ADMIN_REVIEWS: '/admin/reviews',
   DESIGN_PROCESS: '/design-process',
+  CASE_STUDY: '/case-study',
   COMPARE: '/compare',
 }
