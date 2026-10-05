@@ -1,21 +1,21 @@
-const Skeleton = ({ variant = 'text', className = '' }) => {
-  const variants = {
-    text: 'h-4 w-full',
-    card: 'h-48 w-full',
-    productCard: 'h-64 w-full',
-  }
+export const Skeleton = ({ className = '' }) => (
+  <div className={`animate-pulse bg-surface-100 rounded ${className}`} />
+)
 
-  return (
-    <div
-      className={`animate-pulse bg-gray-200 rounded ${variants[variant]} ${className}`}
-    />
-  )
-}
-
-export const SkeletonText = (props) => <Skeleton variant="text" {...props} />
-export const SkeletonCard = (props) => <Skeleton variant="card" {...props} />
-export const SkeletonProductCard = (props) => (
-  <Skeleton variant="productCard" {...props} />
+export const SkeletonPage = () => (
+  <div className="container-page py-8 space-y-6">
+    <Skeleton className="h-10 w-1/3" />
+    <Skeleton className="h-6 w-2/3" />
+    <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mt-8">
+      {[...Array(8)].map((_, i) => (
+        <div key={i} className="space-y-3">
+          <Skeleton className="aspect-square w-full" />
+          <Skeleton className="h-4 w-3/4" />
+          <Skeleton className="h-4 w-1/2" />
+        </div>
+      ))}
+    </div>
+  </div>
 )
 
 export default Skeleton
