@@ -1,0 +1,19 @@
+---
+description: CartIQ 2.0 design and engineering rules
+alwaysApply: true
+---
+
+# CartIQ 2.0 Rules
+
+- Do not rewrite working logic (stores, needSearch, trustScore) unless instructed; refactor UI around it.
+- Use only design tokens from tailwind.config.js (ink, brand, action, match, good, bad, warn, surface, line). No raw hex.
+- Amber (action) = primary actions with dark text (#1A1A1A). Indigo (match) = CartIQ intelligence only.
+- Prices use tabular numerals and formatCurrency (Indian grouping).
+- Icons must be semantically correct; never reuse for unrelated meanings.
+- No unrelated stock photography; use ProductImage only.
+- Sentence-case, active voice, specific CTAs. Errors state problem + fix. Empty states give next action.
+- Focus-visible ring visible; 44px min touch target on mobile; aria-label on icon-only.
+- Respect prefers-reduced-motion; no decorative animation.
+- Mobile-first (360/768/1280/1920). Max-width 1280px; full-bleed backgrounds.
+- Components < 200 lines, JSDoc props, in ui/layout/features.
+- List changed files and uncertainties after finishing. No invented requirements.
