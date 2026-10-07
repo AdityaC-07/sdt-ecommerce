@@ -1,7 +1,19 @@
 import { useEffect } from 'react'
 import { useLocation } from 'react-router-dom'
 
-const PageWrapper = ({ children, className = '' }) => {
+/**
+ * PageWrapper — wraps all non-hero pages.
+ * - Scrolls to top on route change
+ * - Provides consistent container + header padding
+ * - Fixes B2: always uses .container-page so content aligns with the nav
+ *
+ * @param {object}  props
+ * @param {React.ReactNode} props.children
+ * @param {boolean} [props.contained=true]  — wrap content in .container-page
+ * @param {boolean} [props.padTop=true]     — add padding for the fixed header
+ * @param {string}  [props.className]
+ */
+const PageWrapper = ({ children, contained = true, padTop = true, className = '' }) => {
   const location = useLocation()
 
   useEffect(() => {
@@ -9,18 +21,17 @@ const PageWrapper = ({ children, className = '' }) => {
   }, [location.pathname])
 
   return (
-    <div
-      className={`pt-16 min-h-screen ${className}`}
-      style={{ '--header-h': '4rem' }}
+    <main
+      id="main-content"
+      className={`min-h-screen ${className}`}
+      style={padTop ? { paddingTop: 'var(--header-h, 4rem)' } : {}}
     >
-      <a
-        href="#main-content"
-        className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:bg-action-500 focus:text-black focus:px-4 focus:py-2 focus:rounded-full"
-      >
-        Skip to content
-      </a>
-      <div id="main-content">{children}</div>
-    </div>
+      {contained ? (
+        <div className="container-page py-8">{children}</div>
+      ) : (
+        children
+      )}
+    </main>
   )
 }
 

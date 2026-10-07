@@ -1,5 +1,41 @@
 [
   {
+    "id": "u000_student",
+    "name": "Student Demo",
+    "email": "student@cartiq.demo",
+    "password": "demo123",
+    "role": "customer",
+    "persona": "student",
+    "budget": 50000,
+    "seniorMode": false,
+    "wishlist": [],
+    "orderHistory": []
+  },
+  {
+    "id": "u000_seller",
+    "name": "Seller Demo",
+    "email": "seller@cartiq.demo",
+    "password": "demo123",
+    "role": "seller",
+    "persona": null,
+    "budget": null,
+    "seniorMode": false,
+    "wishlist": [],
+    "orderHistory": []
+  },
+  {
+    "id": "u000_admin",
+    "name": "Admin Demo",
+    "email": "admin@cartiq.demo",
+    "password": "demo123",
+    "role": "admin",
+    "persona": null,
+    "budget": null,
+    "seniorMode": false,
+    "wishlist": [],
+    "orderHistory": []
+  },
+  {
     "id": "u001",
     "name": "Aarav Shah",
     "email": "aarav@example.com",

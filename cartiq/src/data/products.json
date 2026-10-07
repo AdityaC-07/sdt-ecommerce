@@ -8,26 +8,68 @@
     "price": 68999,
     "originalPrice": 74999,
     "discount": 7,
-    "images": ["https://picsum.photos/seed/p001/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.3,
     "reviewCount": 1284,
     "inStock": true,
-    "seller": { "id": "s001", "name": "TechZone", "rating": 4.6, "verified": true },
-    "specs": { "RAM": "16GB", "Storage": "512GB SSD", "Processor": "Intel i7-13th Gen", "Battery": "8 hrs", "Weight": "1.8kg", "Display": "15.6 FHD" },
-    "tags": ["coding", "ML", "performance", "student"],
-    "badges": ["Best Seller"],
+    "seller": {
+      "id": "s001",
+      "name": "TechZone",
+      "rating": 4.6,
+      "verified": true
+    },
+    "specs": {
+      "RAM": "16GB",
+      "Storage": "512GB SSD",
+      "Processor": "Intel i7-13th Gen",
+      "Battery": "8 hrs",
+      "Weight": "1.8kg",
+      "Display": "15.6 FHD"
+    },
+    "tags": [
+      "coding",
+      "ML",
+      "performance",
+      "student"
+    ],
+    "badges": [
+      "Best Seller"
+    ],
     "trustScore": 88,
     "deliveryDays": 2,
     "returnPolicy": "10-day returns",
     "reviews": [
-      { "id": "r001", "user": "Aarav S.", "rating": 5, "title": "Great for programming", "body": "Excellent performance for coding and ML workloads. Battery lasts all day.", "verified": true, "date": "2026-08-12", "helpful": 42 }
+      {
+        "id": "r001",
+        "user": "Aarav S.",
+        "rating": 5,
+        "title": "Great for programming",
+        "body": "Excellent performance for coding and ML workloads. Battery lasts all day.",
+        "verified": true,
+        "date": "2026-08-12",
+        "helpful": 42
+      }
     ],
     "reviewSummary": {
-      "pros": ["Long battery life", "Fast processor", "Good build quality"],
-      "cons": ["Slightly heavy", "No Thunderbolt port"],
+      "pros": [
+        "Long battery life",
+        "Fast processor",
+        "Good build quality"
+      ],
+      "cons": [
+        "Slightly heavy",
+        "No Thunderbolt port"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["programming", "machine learning", "student", "budget-conscious"]
+    "needTags": [
+      "programming",
+      "machine learning",
+      "student",
+      "budget-conscious"
+    ]
   },
   {
     "id": "p002",
@@ -38,24 +80,55 @@
     "price": 89999,
     "originalPrice": 99999,
     "discount": 10,
-    "images": ["https://picsum.photos/seed/p002/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1544731612-de7f96afe55f?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.5,
     "reviewCount": 856,
     "inStock": true,
-    "seller": { "id": "s001", "name": "TechZone", "rating": 4.6, "verified": true },
-    "specs": { "RAM": "16GB", "Storage": "1TB SSD", "Processor": "Intel i7-12th Gen", "Battery": "10 hrs", "Weight": "1.4kg", "Display": "13.5 OLED" },
-    "tags": ["business", "travel", "professional"],
-    "badges": ["Top Rated"],
+    "seller": {
+      "id": "s001",
+      "name": "TechZone",
+      "rating": 4.6,
+      "verified": true
+    },
+    "specs": {
+      "RAM": "16GB",
+      "Storage": "1TB SSD",
+      "Processor": "Intel i7-12th Gen",
+      "Battery": "10 hrs",
+      "Weight": "1.4kg",
+      "Display": "13.5 OLED"
+    },
+    "tags": [
+      "business",
+      "travel",
+      "professional"
+    ],
+    "badges": [
+      "Top Rated"
+    ],
     "trustScore": 92,
     "deliveryDays": 3,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Lightweight", "OLED display", "Convertible design"],
-      "cons": ["Expensive", "Runs warm under load"],
+      "pros": [
+        "Lightweight",
+        "OLED display",
+        "Convertible design"
+      ],
+      "cons": [
+        "Expensive",
+        "Runs warm under load"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["business", "travel", "professional"]
+    "needTags": [
+      "business",
+      "travel",
+      "professional"
+    ]
   },
   {
     "id": "p003",
@@ -66,24 +139,55 @@
     "price": 75000,
     "originalPrice": 85000,
     "discount": 12,
-    "images": ["https://picsum.photos/seed/p003/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.4,
     "reviewCount": 2341,
     "inStock": true,
-    "seller": { "id": "s002", "name": "GamerHub", "rating": 4.8, "verified": true },
-    "specs": { "RAM": "32GB", "Storage": "1TB SSD", "Processor": "AMD Ryzen 7", "Battery": "6 hrs", "Weight": "2.3kg", "Display": "15.6 165Hz" },
-    "tags": ["gaming", "performance", "coding"],
-    "badges": ["Best Seller"],
+    "seller": {
+      "id": "s002",
+      "name": "GamerHub",
+      "rating": 4.8,
+      "verified": true
+    },
+    "specs": {
+      "RAM": "32GB",
+      "Storage": "1TB SSD",
+      "Processor": "AMD Ryzen 7",
+      "Battery": "6 hrs",
+      "Weight": "2.3kg",
+      "Display": "15.6 165Hz"
+    },
+    "tags": [
+      "gaming",
+      "performance",
+      "coding"
+    ],
+    "badges": [
+      "Best Seller"
+    ],
     "trustScore": 90,
     "deliveryDays": 2,
     "returnPolicy": "7-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Great for gaming", "Excellent cooling", "High refresh rate"],
-      "cons": ["Heavy", "Battery life average"],
+      "pros": [
+        "Great for gaming",
+        "Excellent cooling",
+        "High refresh rate"
+      ],
+      "cons": [
+        "Heavy",
+        "Battery life average"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["gaming", "performance", "coding"]
+    "needTags": [
+      "gaming",
+      "performance",
+      "coding"
+    ]
   },
   {
     "id": "p004",
@@ -94,24 +198,56 @@
     "price": 99900,
     "originalPrice": 119900,
     "discount": 17,
-    "images": ["https://picsum.photos/seed/p004/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.7,
     "reviewCount": 3456,
     "inStock": true,
-    "seller": { "id": "s003", "name": "AppleStore", "rating": 4.9, "verified": true },
-    "specs": { "RAM": "8GB", "Storage": "256GB SSD", "Processor": "Apple M2", "Battery": "18 hrs", "Weight": "1.24kg", "Display": "13.6 Liquid Retina" },
-    "tags": ["student", "professional", "travel"],
-    "badges": ["Top Rated", "Best Seller"],
+    "seller": {
+      "id": "s003",
+      "name": "AppleStore",
+      "rating": 4.9,
+      "verified": true
+    },
+    "specs": {
+      "RAM": "8GB",
+      "Storage": "256GB SSD",
+      "Processor": "Apple M2",
+      "Battery": "18 hrs",
+      "Weight": "1.24kg",
+      "Display": "13.6 Liquid Retina"
+    },
+    "tags": [
+      "student",
+      "professional",
+      "travel"
+    ],
+    "badges": [
+      "Top Rated",
+      "Best Seller"
+    ],
     "trustScore": 95,
     "deliveryDays": 1,
     "returnPolicy": "14-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Amazing battery", "Silent operation", "Premium build"],
-      "cons": ["Limited ports", "Base RAM is 8GB"],
+      "pros": [
+        "Amazing battery",
+        "Silent operation",
+        "Premium build"
+      ],
+      "cons": [
+        "Limited ports",
+        "Base RAM is 8GB"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["student", "professional", "travel"]
+    "needTags": [
+      "student",
+      "professional",
+      "travel"
+    ]
   },
   {
     "id": "p005",
@@ -122,24 +258,53 @@
     "price": 62000,
     "originalPrice": 70000,
     "discount": 11,
-    "images": ["https://picsum.photos/seed/p005/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.2,
     "reviewCount": 567,
     "inStock": true,
-    "seller": { "id": "s001", "name": "TechZone", "rating": 4.6, "verified": true },
-    "specs": { "RAM": "16GB", "Storage": "512GB SSD", "Processor": "Intel i5-12th Gen", "Battery": "9 hrs", "Weight": "1.5kg", "Display": "14 OLED" },
-    "tags": ["business", "student", "travel"],
+    "seller": {
+      "id": "s001",
+      "name": "TechZone",
+      "rating": 4.6,
+      "verified": true
+    },
+    "specs": {
+      "RAM": "16GB",
+      "Storage": "512GB SSD",
+      "Processor": "Intel i5-12th Gen",
+      "Battery": "9 hrs",
+      "Weight": "1.5kg",
+      "Display": "14 OLED"
+    },
+    "tags": [
+      "business",
+      "student",
+      "travel"
+    ],
     "badges": [],
     "trustScore": 85,
     "deliveryDays": 3,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Good value", "OLED display", "Convertible"],
-      "cons": ["Keyboard could be better", "Average speakers"],
+      "pros": [
+        "Good value",
+        "OLED display",
+        "Convertible"
+      ],
+      "cons": [
+        "Keyboard could be better",
+        "Average speakers"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["business", "student", "travel"]
+    "needTags": [
+      "business",
+      "student",
+      "travel"
+    ]
   },
   {
     "id": "p006",
@@ -150,24 +315,55 @@
     "price": 29990,
     "originalPrice": 34990,
     "discount": 14,
-    "images": ["https://picsum.photos/seed/p006/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.6,
     "reviewCount": 4521,
     "inStock": true,
-    "seller": { "id": "s004", "name": "AudioWorld", "rating": 4.7, "verified": true },
-    "specs": { "Type": "Over-ear", "Battery": "30 hrs", "ANC": "Yes", "Weight": "250g", "Connectivity": "Bluetooth 5.2" },
-    "tags": ["travel", "gaming", "music"],
-    "badges": ["Best Seller", "Top Rated"],
+    "seller": {
+      "id": "s004",
+      "name": "AudioWorld",
+      "rating": 4.7,
+      "verified": true
+    },
+    "specs": {
+      "Type": "Over-ear",
+      "Battery": "30 hrs",
+      "ANC": "Yes",
+      "Weight": "250g",
+      "Connectivity": "Bluetooth 5.2"
+    },
+    "tags": [
+      "travel",
+      "gaming",
+      "music"
+    ],
+    "badges": [
+      "Best Seller",
+      "Top Rated"
+    ],
     "trustScore": 94,
     "deliveryDays": 2,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Best ANC", "Comfortable", "Great sound"],
-      "cons": ["Expensive", "Folding design removed"],
+      "pros": [
+        "Best ANC",
+        "Comfortable",
+        "Great sound"
+      ],
+      "cons": [
+        "Expensive",
+        "Folding design removed"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["travel", "gaming", "music"]
+    "needTags": [
+      "travel",
+      "gaming",
+      "music"
+    ]
   },
   {
     "id": "p007",
@@ -178,24 +374,52 @@
     "price": 27990,
     "originalPrice": 32990,
     "discount": 15,
-    "images": ["https://picsum.photos/seed/p007/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.4,
     "reviewCount": 2345,
     "inStock": true,
-    "seller": { "id": "s004", "name": "AudioWorld", "rating": 4.7, "verified": true },
-    "specs": { "Type": "Over-ear", "Battery": "24 hrs", "ANC": "Yes", "Weight": "240g", "Connectivity": "Bluetooth 5.1" },
-    "tags": ["travel", "music", "work"],
+    "seller": {
+      "id": "s004",
+      "name": "AudioWorld",
+      "rating": 4.7,
+      "verified": true
+    },
+    "specs": {
+      "Type": "Over-ear",
+      "Battery": "24 hrs",
+      "ANC": "Yes",
+      "Weight": "240g",
+      "Connectivity": "Bluetooth 5.1"
+    },
+    "tags": [
+      "travel",
+      "music",
+      "work"
+    ],
     "badges": [],
     "trustScore": 91,
     "deliveryDays": 2,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Comfortable", "Good ANC", "Reliable"],
-      "cons": ["Average sound quality", "Bulk design"],
+      "pros": [
+        "Comfortable",
+        "Good ANC",
+        "Reliable"
+      ],
+      "cons": [
+        "Average sound quality",
+        "Bulk design"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["travel", "music", "work"]
+    "needTags": [
+      "travel",
+      "music",
+      "work"
+    ]
   },
   {
     "id": "p008",
@@ -206,24 +430,54 @@
     "price": 5999,
     "originalPrice": 7999,
     "discount": 25,
-    "images": ["https://picsum.photos/seed/p008/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.1,
     "reviewCount": 1876,
     "inStock": true,
-    "seller": { "id": "s005", "name": "SoundMasters", "rating": 4.4, "verified": true },
-    "specs": { "Type": "Over-ear", "Battery": "50 hrs", "ANC": "Yes", "Weight": "220g", "Connectivity": "Bluetooth 5.0" },
-    "tags": ["budget", "travel", "student"],
-    "badges": ["Great Value"],
+    "seller": {
+      "id": "s005",
+      "name": "SoundMasters",
+      "rating": 4.4,
+      "verified": true
+    },
+    "specs": {
+      "Type": "Over-ear",
+      "Battery": "50 hrs",
+      "ANC": "Yes",
+      "Weight": "220g",
+      "Connectivity": "Bluetooth 5.0"
+    },
+    "tags": [
+      "budget",
+      "travel",
+      "student"
+    ],
+    "badges": [
+      "Great Value"
+    ],
     "trustScore": 82,
     "deliveryDays": 3,
     "returnPolicy": "7-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Great battery", "Budget-friendly", "Good bass"],
-      "cons": ["ANC not strong", "Build quality average"],
+      "pros": [
+        "Great battery",
+        "Budget-friendly",
+        "Good bass"
+      ],
+      "cons": [
+        "ANC not strong",
+        "Build quality average"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["budget", "travel", "student"]
+    "needTags": [
+      "budget",
+      "travel",
+      "student"
+    ]
   },
   {
     "id": "p009",
@@ -234,24 +488,54 @@
     "price": 24900,
     "originalPrice": 26900,
     "discount": 7,
-    "images": ["https://picsum.photos/seed/p009/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.5,
     "reviewCount": 5678,
     "inStock": true,
-    "seller": { "id": "s003", "name": "AppleStore", "rating": 4.9, "verified": true },
-    "specs": { "Type": "In-ear", "Battery": "6 hrs", "ANC": "Yes", "Weight": "5.3g", "Connectivity": "Bluetooth 5.3" },
-    "tags": ["travel", "music", "fitness"],
-    "badges": ["Top Rated"],
+    "seller": {
+      "id": "s003",
+      "name": "AppleStore",
+      "rating": 4.9,
+      "verified": true
+    },
+    "specs": {
+      "Type": "In-ear",
+      "Battery": "6 hrs",
+      "ANC": "Yes",
+      "Weight": "5.3g",
+      "Connectivity": "Bluetooth 5.3"
+    },
+    "tags": [
+      "travel",
+      "music",
+      "fitness"
+    ],
+    "badges": [
+      "Top Rated"
+    ],
     "trustScore": 93,
     "deliveryDays": 1,
     "returnPolicy": "14-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Best ANC for earbuds", "Great integration", "Comfortable"],
-      "cons": ["Expensive", "USB-C case sold separately"],
+      "pros": [
+        "Best ANC for earbuds",
+        "Great integration",
+        "Comfortable"
+      ],
+      "cons": [
+        "Expensive",
+        "USB-C case sold separately"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["travel", "music", "fitness"]
+    "needTags": [
+      "travel",
+      "music",
+      "fitness"
+    ]
   },
   {
     "id": "p010",
@@ -262,24 +546,52 @@
     "price": 34990,
     "originalPrice": 39990,
     "discount": 13,
-    "images": ["https://picsum.photos/seed/p010/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.3,
     "reviewCount": 890,
     "inStock": true,
-    "seller": { "id": "s004", "name": "AudioWorld", "rating": 4.7, "verified": true },
-    "specs": { "Type": "Over-ear", "Battery": "60 hrs", "ANC": "Yes", "Weight": "300g", "Connectivity": "Bluetooth 5.2" },
-    "tags": ["music", "audiophile", "travel"],
+    "seller": {
+      "id": "s004",
+      "name": "AudioWorld",
+      "rating": 4.7,
+      "verified": true
+    },
+    "specs": {
+      "Type": "Over-ear",
+      "Battery": "60 hrs",
+      "ANC": "Yes",
+      "Weight": "300g",
+      "Connectivity": "Bluetooth 5.2"
+    },
+    "tags": [
+      "music",
+      "audiophile",
+      "travel"
+    ],
     "badges": [],
     "trustScore": 87,
     "deliveryDays": 3,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Amazing battery", "Great sound", "Comfortable"],
-      "cons": ["Bulky", "ANC not top tier"],
+      "pros": [
+        "Amazing battery",
+        "Great sound",
+        "Comfortable"
+      ],
+      "cons": [
+        "Bulky",
+        "ANC not top tier"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["music", "audiophile", "travel"]
+    "needTags": [
+      "music",
+      "audiophile",
+      "travel"
+    ]
   },
   {
     "id": "p011",
@@ -290,24 +602,55 @@
     "price": 119900,
     "originalPrice": 134900,
     "discount": 11,
-    "images": ["https://picsum.photos/seed/p011/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.6,
     "reviewCount": 6789,
     "inStock": true,
-    "seller": { "id": "s003", "name": "AppleStore", "rating": 4.9, "verified": true },
-    "specs": { "Display": "6.1 Super Retina XDR", "Battery": "23 hrs", "Storage": "128GB", "Processor": "A17 Pro", "Camera": "48MP" },
-    "tags": ["professional", "photography", "premium"],
-    "badges": ["Best Seller", "Top Rated"],
+    "seller": {
+      "id": "s003",
+      "name": "AppleStore",
+      "rating": 4.9,
+      "verified": true
+    },
+    "specs": {
+      "Display": "6.1 Super Retina XDR",
+      "Battery": "23 hrs",
+      "Storage": "128GB",
+      "Processor": "A17 Pro",
+      "Camera": "48MP"
+    },
+    "tags": [
+      "professional",
+      "photography",
+      "premium"
+    ],
+    "badges": [
+      "Best Seller",
+      "Top Rated"
+    ],
     "trustScore": 96,
     "deliveryDays": 1,
     "returnPolicy": "14-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Titanium build", "Great camera", "A17 chip"],
-      "cons": ["Expensive", "USB-C still slow"],
+      "pros": [
+        "Titanium build",
+        "Great camera",
+        "A17 chip"
+      ],
+      "cons": [
+        "Expensive",
+        "USB-C still slow"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["professional", "photography", "premium"]
+    "needTags": [
+      "professional",
+      "photography",
+      "premium"
+    ]
   },
   {
     "id": "p012",
@@ -318,24 +661,54 @@
     "price": 129999,
     "originalPrice": 149999,
     "discount": 13,
-    "images": ["https://picsum.photos/seed/p012/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.5,
     "reviewCount": 4567,
     "inStock": true,
-    "seller": { "id": "s006", "name": "SamsungStore", "rating": 4.8, "verified": true },
-    "specs": { "Display": "6.8 Dynamic AMOLED", "Battery": "24 hrs", "Storage": "256GB", "Processor": "Snapdragon 8 Gen 3", "Camera": "200MP" },
-    "tags": ["photography", "professional", "gaming"],
-    "badges": ["Top Rated"],
+    "seller": {
+      "id": "s006",
+      "name": "SamsungStore",
+      "rating": 4.8,
+      "verified": true
+    },
+    "specs": {
+      "Display": "6.8 Dynamic AMOLED",
+      "Battery": "24 hrs",
+      "Storage": "256GB",
+      "Processor": "Snapdragon 8 Gen 3",
+      "Camera": "200MP"
+    },
+    "tags": [
+      "photography",
+      "professional",
+      "gaming"
+    ],
+    "badges": [
+      "Top Rated"
+    ],
     "trustScore": 94,
     "deliveryDays": 2,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Amazing camera", "S Pen included", "Great display"],
-      "cons": ["Very expensive", "Heavy"],
+      "pros": [
+        "Amazing camera",
+        "S Pen included",
+        "Great display"
+      ],
+      "cons": [
+        "Very expensive",
+        "Heavy"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["photography", "professional", "gaming"]
+    "needTags": [
+      "photography",
+      "professional",
+      "gaming"
+    ]
   },
   {
     "id": "p013",
@@ -346,24 +719,52 @@
     "price": 106999,
     "originalPrice": 119999,
     "discount": 11,
-    "images": ["https://picsum.photos/seed/p013/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.4,
     "reviewCount": 2345,
     "inStock": true,
-    "seller": { "id": "s007", "name": "TechZone", "rating": 4.6, "verified": true },
-    "specs": { "Display": "6.7 OLED", "Battery": "22 hrs", "Storage": "128GB", "Processor": "Tensor G3", "Camera": "50MP" },
-    "tags": ["photography", "AI", "student"],
+    "seller": {
+      "id": "s007",
+      "name": "TechZone",
+      "rating": 4.6,
+      "verified": true
+    },
+    "specs": {
+      "Display": "6.7 OLED",
+      "Battery": "22 hrs",
+      "Storage": "128GB",
+      "Processor": "Tensor G3",
+      "Camera": "50MP"
+    },
+    "tags": [
+      "photography",
+      "AI",
+      "student"
+    ],
     "badges": [],
     "trustScore": 90,
     "deliveryDays": 3,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Best camera features", "Clean Android", "AI features"],
-      "cons": ["Not available everywhere", "Average battery"],
+      "pros": [
+        "Best camera features",
+        "Clean Android",
+        "AI features"
+      ],
+      "cons": [
+        "Not available everywhere",
+        "Average battery"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["photography", "AI", "student"]
+    "needTags": [
+      "photography",
+      "AI",
+      "student"
+    ]
   },
   {
     "id": "p014",
@@ -374,24 +775,54 @@
     "price": 64999,
     "originalPrice": 69999,
     "discount": 7,
-    "images": ["https://picsum.photos/seed/p014/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.3,
     "reviewCount": 3456,
     "inStock": true,
-    "seller": { "id": "s008", "name": "OnePlusStore", "rating": 4.7, "verified": true },
-    "specs": { "Display": "6.8 AMOLED", "Battery": "26 hrs", "Storage": "256GB", "Processor": "Snapdragon 8 Gen 3", "Camera": "50MP" },
-    "tags": ["gaming", "performance", "budget"],
-    "badges": ["Great Value"],
+    "seller": {
+      "id": "s008",
+      "name": "OnePlusStore",
+      "rating": 4.7,
+      "verified": true
+    },
+    "specs": {
+      "Display": "6.8 AMOLED",
+      "Battery": "26 hrs",
+      "Storage": "256GB",
+      "Processor": "Snapdragon 8 Gen 3",
+      "Camera": "50MP"
+    },
+    "tags": [
+      "gaming",
+      "performance",
+      "budget"
+    ],
+    "badges": [
+      "Great Value"
+    ],
     "trustScore": 88,
     "deliveryDays": 2,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Fast charging", "Great display", "Good performance"],
-      "cons": ["Camera not top tier", "Curved screen"],
+      "pros": [
+        "Fast charging",
+        "Great display",
+        "Good performance"
+      ],
+      "cons": [
+        "Camera not top tier",
+        "Curved screen"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["gaming", "performance", "budget"]
+    "needTags": [
+      "gaming",
+      "performance",
+      "budget"
+    ]
   },
   {
     "id": "p015",
@@ -402,24 +833,54 @@
     "price": 19999,
     "originalPrice": 24999,
     "discount": 20,
-    "images": ["https://picsum.photos/seed/p015/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.2,
     "reviewCount": 5678,
     "inStock": true,
-    "seller": { "id": "s009", "name": "MiStore", "rating": 4.5, "verified": true },
-    "specs": { "Display": "6.67 AMOLED", "Battery": "18 hrs", "Storage": "128GB", "Processor": "Snapdragon 7s Gen 2", "Camera": "200MP" },
-    "tags": ["budget", "student", "photography"],
-    "badges": ["Best Seller"],
+    "seller": {
+      "id": "s009",
+      "name": "MiStore",
+      "rating": 4.5,
+      "verified": true
+    },
+    "specs": {
+      "Display": "6.67 AMOLED",
+      "Battery": "18 hrs",
+      "Storage": "128GB",
+      "Processor": "Snapdragon 7s Gen 2",
+      "Camera": "200MP"
+    },
+    "tags": [
+      "budget",
+      "student",
+      "photography"
+    ],
+    "badges": [
+      "Best Seller"
+    ],
     "trustScore": 84,
     "deliveryDays": 3,
     "returnPolicy": "7-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Great camera for price", "Good display", "Budget-friendly"],
-      "cons": ["Processor average", "Bloatware"],
+      "pros": [
+        "Great camera for price",
+        "Good display",
+        "Budget-friendly"
+      ],
+      "cons": [
+        "Processor average",
+        "Bloatware"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["budget", "student", "photography"]
+    "needTags": [
+      "budget",
+      "student",
+      "photography"
+    ]
   },
   {
     "id": "p016",
@@ -430,24 +891,54 @@
     "price": 215000,
     "originalPrice": 235000,
     "discount": 8,
-    "images": ["https://picsum.photos/seed/p016/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.7,
     "reviewCount": 1234,
     "inStock": true,
-    "seller": { "id": "s010", "name": "CameraWorld", "rating": 4.8, "verified": true },
-    "specs": { "Sensor": "24.2MP Full Frame", "Video": "4K 60fps", "AF Points": "1053", "ISO": "100-102400", "Stabilization": "In-body" },
-    "tags": ["photography", "professional", "videography"],
-    "badges": ["Top Rated"],
+    "seller": {
+      "id": "s010",
+      "name": "CameraWorld",
+      "rating": 4.8,
+      "verified": true
+    },
+    "specs": {
+      "Sensor": "24.2MP Full Frame",
+      "Video": "4K 60fps",
+      "AF Points": "1053",
+      "ISO": "100-102400",
+      "Stabilization": "In-body"
+    },
+    "tags": [
+      "photography",
+      "professional",
+      "videography"
+    ],
+    "badges": [
+      "Top Rated"
+    ],
     "trustScore": 93,
     "deliveryDays": 4,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Amazing AF", "Great video", "Reliable"],
-      "cons": ["Expensive", "Heavy"],
+      "pros": [
+        "Amazing AF",
+        "Great video",
+        "Reliable"
+      ],
+      "cons": [
+        "Expensive",
+        "Heavy"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["photography", "professional", "videography"]
+    "needTags": [
+      "photography",
+      "professional",
+      "videography"
+    ]
   },
   {
     "id": "p017",
@@ -458,24 +949,54 @@
     "price": 195000,
     "originalPrice": 215000,
     "discount": 9,
-    "images": ["https://picsum.photos/seed/p017/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.6,
     "reviewCount": 987,
     "inStock": true,
-    "seller": { "id": "s010", "name": "CameraWorld", "rating": 4.8, "verified": true },
-    "specs": { "Sensor": "33MP Full Frame", "Video": "4K 60fps", "AF Points": "759", "ISO": "100-51200", "Stabilization": "In-body" },
-    "tags": ["photography", "professional", "videography"],
-    "badges": ["Best Seller"],
+    "seller": {
+      "id": "s010",
+      "name": "CameraWorld",
+      "rating": 4.8,
+      "verified": true
+    },
+    "specs": {
+      "Sensor": "33MP Full Frame",
+      "Video": "4K 60fps",
+      "AF Points": "759",
+      "ISO": "100-51200",
+      "Stabilization": "In-body"
+    },
+    "tags": [
+      "photography",
+      "professional",
+      "videography"
+    ],
+    "badges": [
+      "Best Seller"
+    ],
     "trustScore": 91,
     "deliveryDays": 4,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Great resolution", "Good AF", "Video features"],
-      "cons": ["Battery life average", "Menu complex"],
+      "pros": [
+        "Great resolution",
+        "Good AF",
+        "Video features"
+      ],
+      "cons": [
+        "Battery life average",
+        "Menu complex"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["photography", "professional", "videography"]
+    "needTags": [
+      "photography",
+      "professional",
+      "videography"
+    ]
   },
   {
     "id": "p018",
@@ -486,24 +1007,52 @@
     "price": 169999,
     "originalPrice": 189999,
     "discount": 11,
-    "images": ["https://picsum.photos/seed/p018/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.5,
     "reviewCount": 654,
     "inStock": true,
-    "seller": { "id": "s010", "name": "CameraWorld", "rating": 4.8, "verified": true },
-    "specs": { "Sensor": "40.2MP APS-C", "Video": "4K 30fps", "AF Points": "425", "ISO": "64-51200", "Stabilization": "In-body" },
-    "tags": ["photography", "retro", "travel"],
+    "seller": {
+      "id": "s010",
+      "name": "CameraWorld",
+      "rating": 4.8,
+      "verified": true
+    },
+    "specs": {
+      "Sensor": "40.2MP APS-C",
+      "Video": "4K 30fps",
+      "AF Points": "425",
+      "ISO": "64-51200",
+      "Stabilization": "In-body"
+    },
+    "tags": [
+      "photography",
+      "retro",
+      "travel"
+    ],
     "badges": [],
     "trustScore": 89,
     "deliveryDays": 5,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Film simulations", "Retro design", "High resolution"],
-      "cons": ["APS-C sensor", "Video not 4K 60fps"],
+      "pros": [
+        "Film simulations",
+        "Retro design",
+        "High resolution"
+      ],
+      "cons": [
+        "APS-C sensor",
+        "Video not 4K 60fps"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["photography", "retro", "travel"]
+    "needTags": [
+      "photography",
+      "retro",
+      "travel"
+    ]
   },
   {
     "id": "p019",
@@ -514,24 +1063,52 @@
     "price": 39990,
     "originalPrice": 44990,
     "discount": 11,
-    "images": ["https://picsum.photos/seed/p019/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1564466809058-bf4114d55352?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.3,
     "reviewCount": 2345,
     "inStock": true,
-    "seller": { "id": "s011", "name": "ActionCam", "rating": 4.5, "verified": true },
-    "specs": { "Video": "5.3K 60fps", "Sensor": "27MP", "Stabilization": "HyperSmooth 6.0", "Waterproof": "10m", "Battery": "1.5 hrs" },
-    "tags": ["travel", "adventure", "sports"],
+    "seller": {
+      "id": "s011",
+      "name": "ActionCam",
+      "rating": 4.5,
+      "verified": true
+    },
+    "specs": {
+      "Video": "5.3K 60fps",
+      "Sensor": "27MP",
+      "Stabilization": "HyperSmooth 6.0",
+      "Waterproof": "10m",
+      "Battery": "1.5 hrs"
+    },
+    "tags": [
+      "travel",
+      "adventure",
+      "sports"
+    ],
     "badges": [],
     "trustScore": 86,
     "deliveryDays": 2,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Great stabilization", "Durable", "Easy to use"],
-      "cons": ["Battery life short", "Expensive accessories"],
+      "pros": [
+        "Great stabilization",
+        "Durable",
+        "Easy to use"
+      ],
+      "cons": [
+        "Battery life short",
+        "Expensive accessories"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["travel", "adventure", "sports"]
+    "needTags": [
+      "travel",
+      "adventure",
+      "sports"
+    ]
   },
   {
     "id": "p020",
@@ -542,24 +1119,54 @@
     "price": 55995,
     "originalPrice": 61995,
     "discount": 10,
-    "images": ["https://picsum.photos/seed/p020/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.2,
     "reviewCount": 876,
     "inStock": true,
-    "seller": { "id": "s010", "name": "CameraWorld", "rating": 4.8, "verified": true },
-    "specs": { "Sensor": "24.2MP APS-C", "Video": "4K 30fps", "AF Points": "651", "ISO": "100-32000", "Stabilization": "No" },
-    "tags": ["beginner", "travel", "student"],
-    "badges": ["Great Value"],
+    "seller": {
+      "id": "s010",
+      "name": "CameraWorld",
+      "rating": 4.8,
+      "verified": true
+    },
+    "specs": {
+      "Sensor": "24.2MP APS-C",
+      "Video": "4K 30fps",
+      "AF Points": "651",
+      "ISO": "100-32000",
+      "Stabilization": "No"
+    },
+    "tags": [
+      "beginner",
+      "travel",
+      "student"
+    ],
+    "badges": [
+      "Great Value"
+    ],
     "trustScore": 83,
     "deliveryDays": 3,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Easy to use", "Good for beginners", "Lightweight"],
-      "cons": ["No in-body stabilization", "Plastic build"],
+      "pros": [
+        "Easy to use",
+        "Good for beginners",
+        "Lightweight"
+      ],
+      "cons": [
+        "No in-body stabilization",
+        "Plastic build"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["beginner", "travel", "student"]
+    "needTags": [
+      "beginner",
+      "travel",
+      "student"
+    ]
   },
   {
     "id": "p021",
@@ -570,24 +1177,54 @@
     "price": 41900,
     "originalPrice": 44900,
     "discount": 7,
-    "images": ["https://picsum.photos/seed/p021/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.5,
     "reviewCount": 4567,
     "inStock": true,
-    "seller": { "id": "s003", "name": "AppleStore", "rating": 4.9, "verified": true },
-    "specs": { "Display": "1.9 OLED", "Battery": "18 hrs", "GPS": "Yes", "Water Resistance": "50m", "Health": "ECG, SpO2" },
-    "tags": ["fitness", "health", "professional"],
-    "badges": ["Top Rated"],
+    "seller": {
+      "id": "s003",
+      "name": "AppleStore",
+      "rating": 4.9,
+      "verified": true
+    },
+    "specs": {
+      "Display": "1.9 OLED",
+      "Battery": "18 hrs",
+      "GPS": "Yes",
+      "Water Resistance": "50m",
+      "Health": "ECG, SpO2"
+    },
+    "tags": [
+      "fitness",
+      "health",
+      "professional"
+    ],
+    "badges": [
+      "Top Rated"
+    ],
     "trustScore": 94,
     "deliveryDays": 1,
     "returnPolicy": "14-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Great ecosystem", "Fast performance", "Health features"],
-      "cons": ["Battery life", "Requires iPhone"],
+      "pros": [
+        "Great ecosystem",
+        "Fast performance",
+        "Health features"
+      ],
+      "cons": [
+        "Battery life",
+        "Requires iPhone"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["fitness", "health", "professional"]
+    "needTags": [
+      "fitness",
+      "health",
+      "professional"
+    ]
   },
   {
     "id": "p022",
@@ -598,24 +1235,52 @@
     "price": 32999,
     "originalPrice": 37999,
     "discount": 13,
-    "images": ["https://picsum.photos/seed/p022/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.3,
     "reviewCount": 2345,
     "inStock": true,
-    "seller": { "id": "s006", "name": "SamsungStore", "rating": 4.8, "verified": true },
-    "specs": { "Display": "1.5 Super AMOLED", "Battery": "40 hrs", "GPS": "Yes", "Water Resistance": "50m", "Health": "ECG, SpO2" },
-    "tags": ["fitness", "health", "android"],
+    "seller": {
+      "id": "s006",
+      "name": "SamsungStore",
+      "rating": 4.8,
+      "verified": true
+    },
+    "specs": {
+      "Display": "1.5 Super AMOLED",
+      "Battery": "40 hrs",
+      "GPS": "Yes",
+      "Water Resistance": "50m",
+      "Health": "ECG, SpO2"
+    },
+    "tags": [
+      "fitness",
+      "health",
+      "android"
+    ],
     "badges": [],
     "trustScore": 89,
     "deliveryDays": 2,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Good battery", "Works with any Android", "Health features"],
-      "cons": ["Not as polished as Apple", "App ecosystem"],
+      "pros": [
+        "Good battery",
+        "Works with any Android",
+        "Health features"
+      ],
+      "cons": [
+        "Not as polished as Apple",
+        "App ecosystem"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["fitness", "health", "android"]
+    "needTags": [
+      "fitness",
+      "health",
+      "android"
+    ]
   },
   {
     "id": "p023",
@@ -626,24 +1291,54 @@
     "price": 54990,
     "originalPrice": 59990,
     "discount": 8,
-    "images": ["https://picsum.photos/seed/p023/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.6,
     "reviewCount": 1234,
     "inStock": true,
-    "seller": { "id": "s012", "name": "SportsGear", "rating": 4.7, "verified": true },
-    "specs": { "Display": "1.3 MIP", "Battery": "18 days", "GPS": "Yes", "Water Resistance": "100m", "Health": "HR, SpO2, Sleep" },
-    "tags": ["sports", "fitness", "outdoor"],
-    "badges": ["Best Seller"],
+    "seller": {
+      "id": "s012",
+      "name": "SportsGear",
+      "rating": 4.7,
+      "verified": true
+    },
+    "specs": {
+      "Display": "1.3 MIP",
+      "Battery": "18 days",
+      "GPS": "Yes",
+      "Water Resistance": "100m",
+      "Health": "HR, SpO2, Sleep"
+    },
+    "tags": [
+      "sports",
+      "fitness",
+      "outdoor"
+    ],
+    "badges": [
+      "Best Seller"
+    ],
     "trustScore": 92,
     "deliveryDays": 3,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Amazing battery", "Rugged", "Great sports features"],
-      "cons": ["Expensive", "Interface dated"],
+      "pros": [
+        "Amazing battery",
+        "Rugged",
+        "Great sports features"
+      ],
+      "cons": [
+        "Expensive",
+        "Interface dated"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["sports", "fitness", "outdoor"]
+    "needTags": [
+      "sports",
+      "fitness",
+      "outdoor"
+    ]
   },
   {
     "id": "p024",
@@ -654,24 +1349,52 @@
     "price": 22995,
     "originalPrice": 26995,
     "discount": 15,
-    "images": ["https://picsum.photos/seed/p024/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.1,
     "reviewCount": 876,
     "inStock": true,
-    "seller": { "id": "s013", "name": "WatchWorld", "rating": 4.4, "verified": true },
-    "specs": { "Display": "1.28 AMOLED", "Battery": "24 hrs", "GPS": "Yes", "Water Resistance": "50m", "Health": "HR, SpO2" },
-    "tags": ["fashion", "casual", "professional"],
+    "seller": {
+      "id": "s013",
+      "name": "WatchWorld",
+      "rating": 4.4,
+      "verified": true
+    },
+    "specs": {
+      "Display": "1.28 AMOLED",
+      "Battery": "24 hrs",
+      "GPS": "Yes",
+      "Water Resistance": "50m",
+      "Health": "HR, SpO2"
+    },
+    "tags": [
+      "fashion",
+      "casual",
+      "professional"
+    ],
     "badges": [],
     "trustScore": 82,
     "deliveryDays": 3,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Classic design", "Good for fashion", "Wear OS"],
-      "cons": ["Battery life average", "Not for sports"],
+      "pros": [
+        "Classic design",
+        "Good for fashion",
+        "Wear OS"
+      ],
+      "cons": [
+        "Battery life average",
+        "Not for sports"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["fashion", "casual", "professional"]
+    "needTags": [
+      "fashion",
+      "casual",
+      "professional"
+    ]
   },
   {
     "id": "p025",
@@ -682,24 +1405,54 @@
     "price": 9999,
     "originalPrice": 12999,
     "discount": 23,
-    "images": ["https://picsum.photos/seed/p025/400/400"],
-    "rating": 4.0,
+    "images": [
+      "https://images.unsplash.com/photo-1544117519-31a4b719223d?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4,
     "reviewCount": 1567,
     "inStock": true,
-    "seller": { "id": "s014", "name": "BudgetTech", "rating": 4.3, "verified": true },
-    "specs": { "Display": "1.43 AMOLED", "Battery": "14 days", "GPS": "Yes", "Water Resistance": "50m", "Health": "HR, SpO2" },
-    "tags": ["budget", "fitness", "student"],
-    "badges": ["Great Value"],
+    "seller": {
+      "id": "s014",
+      "name": "BudgetTech",
+      "rating": 4.3,
+      "verified": true
+    },
+    "specs": {
+      "Display": "1.43 AMOLED",
+      "Battery": "14 days",
+      "GPS": "Yes",
+      "Water Resistance": "50m",
+      "Health": "HR, SpO2"
+    },
+    "tags": [
+      "budget",
+      "fitness",
+      "student"
+    ],
+    "badges": [
+      "Great Value"
+    ],
     "trustScore": 80,
     "deliveryDays": 4,
     "returnPolicy": "7-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Great battery", "Budget-friendly", "Good features"],
-      "cons": ["App could be better", "Not premium feel"],
+      "pros": [
+        "Great battery",
+        "Budget-friendly",
+        "Good features"
+      ],
+      "cons": [
+        "App could be better",
+        "Not premium feel"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["budget", "fitness", "student"]
+    "needTags": [
+      "budget",
+      "fitness",
+      "student"
+    ]
   },
   {
     "id": "p026",
@@ -710,24 +1463,56 @@
     "price": 55000,
     "originalPrice": 65000,
     "discount": 15,
-    "images": ["https://picsum.photos/seed/p026/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.1,
     "reviewCount": 3456,
     "inStock": true,
-    "seller": { "id": "s002", "name": "GamerHub", "rating": 4.8, "verified": true },
-    "specs": { "RAM": "16GB", "Storage": "512GB SSD", "Processor": "Intel i5-12th Gen", "Battery": "5 hrs", "Weight": "2.5kg", "Display": "15.6 144Hz" },
-    "tags": ["gaming", "budget", "student"],
-    "badges": ["Great Value"],
+    "seller": {
+      "id": "s002",
+      "name": "GamerHub",
+      "rating": 4.8,
+      "verified": true
+    },
+    "specs": {
+      "RAM": "16GB",
+      "Storage": "512GB SSD",
+      "Processor": "Intel i5-12th Gen",
+      "Battery": "5 hrs",
+      "Weight": "2.5kg",
+      "Display": "15.6 144Hz"
+    },
+    "tags": [
+      "gaming",
+      "budget",
+      "student"
+    ],
+    "badges": [
+      "Great Value"
+    ],
     "trustScore": 83,
     "deliveryDays": 3,
     "returnPolicy": "7-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Budget gaming", "Good cooling", "Decent performance"],
-      "cons": ["Heavy", "Average battery", "Display not great"],
+      "pros": [
+        "Budget gaming",
+        "Good cooling",
+        "Decent performance"
+      ],
+      "cons": [
+        "Heavy",
+        "Average battery",
+        "Display not great"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["gaming", "budget", "student"]
+    "needTags": [
+      "gaming",
+      "budget",
+      "student"
+    ]
   },
   {
     "id": "p027",
@@ -738,24 +1523,55 @@
     "price": 1299,
     "originalPrice": 2990,
     "discount": 57,
-    "images": ["https://picsum.photos/seed/p027/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 3.8,
     "reviewCount": 8901,
     "inStock": true,
-    "seller": { "id": "s015", "name": "BoatStore", "rating": 4.2, "verified": true },
-    "specs": { "Type": "In-ear", "Battery": "5 hrs", "ANC": "No", "Weight": "4g", "Connectivity": "Bluetooth 5.0" },
-    "tags": ["budget", "casual", "student"],
-    "badges": ["Budget Pick"],
+    "seller": {
+      "id": "s015",
+      "name": "BoatStore",
+      "rating": 4.2,
+      "verified": true
+    },
+    "specs": {
+      "Type": "In-ear",
+      "Battery": "5 hrs",
+      "ANC": "No",
+      "Weight": "4g",
+      "Connectivity": "Bluetooth 5.0"
+    },
+    "tags": [
+      "budget",
+      "casual",
+      "student"
+    ],
+    "badges": [
+      "Budget Pick"
+    ],
     "trustScore": 75,
     "deliveryDays": 2,
     "returnPolicy": "7-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Very cheap", "Decent sound", "Lightweight"],
-      "cons": ["No ANC", "Average build", "Battery short"],
+      "pros": [
+        "Very cheap",
+        "Decent sound",
+        "Lightweight"
+      ],
+      "cons": [
+        "No ANC",
+        "Average build",
+        "Battery short"
+      ],
       "sentiment": "Mixed"
     },
-    "needTags": ["budget", "casual", "student"]
+    "needTags": [
+      "budget",
+      "casual",
+      "student"
+    ]
   },
   {
     "id": "p028",
@@ -766,24 +1582,52 @@
     "price": 23999,
     "originalPrice": 27999,
     "discount": 14,
-    "images": ["https://picsum.photos/seed/p028/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.1,
     "reviewCount": 2345,
     "inStock": true,
-    "seller": { "id": "s016", "name": "RealmeStore", "rating": 4.4, "verified": true },
-    "specs": { "Display": "6.7 AMOLED", "Battery": "20 hrs", "Storage": "128GB", "Processor": "Dimensity 7050", "Camera": "200MP" },
-    "tags": ["budget", "photography", "student"],
+    "seller": {
+      "id": "s016",
+      "name": "RealmeStore",
+      "rating": 4.4,
+      "verified": true
+    },
+    "specs": {
+      "Display": "6.7 AMOLED",
+      "Battery": "20 hrs",
+      "Storage": "128GB",
+      "Processor": "Dimensity 7050",
+      "Camera": "200MP"
+    },
+    "tags": [
+      "budget",
+      "photography",
+      "student"
+    ],
     "badges": [],
     "trustScore": 81,
     "deliveryDays": 3,
     "returnPolicy": "7-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Great camera", "Good display", "Fast charging"],
-      "cons": ["Processor average", "Bloatware"],
+      "pros": [
+        "Great camera",
+        "Good display",
+        "Fast charging"
+      ],
+      "cons": [
+        "Processor average",
+        "Bloatware"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["budget", "photography", "student"]
+    "needTags": [
+      "budget",
+      "photography",
+      "student"
+    ]
   },
   {
     "id": "p029",
@@ -794,24 +1638,52 @@
     "price": 44990,
     "originalPrice": 49990,
     "discount": 10,
-    "images": ["https://picsum.photos/seed/p029/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1508898578281-774ac4893c0c?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 4.4,
     "reviewCount": 567,
     "inStock": true,
-    "seller": { "id": "s011", "name": "ActionCam", "rating": 4.5, "verified": true },
-    "specs": { "Video": "5.7K 30fps", "Sensor": "72MP", "Stabilization": "FlowState", "Waterproof": "10m", "Battery": "1.5 hrs" },
-    "tags": ["travel", "adventure", "vlogging"],
+    "seller": {
+      "id": "s011",
+      "name": "ActionCam",
+      "rating": 4.5,
+      "verified": true
+    },
+    "specs": {
+      "Video": "5.7K 30fps",
+      "Sensor": "72MP",
+      "Stabilization": "FlowState",
+      "Waterproof": "10m",
+      "Battery": "1.5 hrs"
+    },
+    "tags": [
+      "travel",
+      "adventure",
+      "vlogging"
+    ],
     "badges": [],
     "trustScore": 87,
     "deliveryDays": 3,
     "returnPolicy": "10-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["360 footage", "Great stabilization", "Invisible selfie stick"],
-      "cons": ["Battery life", "Learning curve"],
+      "pros": [
+        "360 footage",
+        "Great stabilization",
+        "Invisible selfie stick"
+      ],
+      "cons": [
+        "Battery life",
+        "Learning curve"
+      ],
       "sentiment": "Mostly positive"
     },
-    "needTags": ["travel", "adventure", "vlogging"]
+    "needTags": [
+      "travel",
+      "adventure",
+      "vlogging"
+    ]
   },
   {
     "id": "p030",
@@ -822,23 +1694,54 @@
     "price": 2999,
     "originalPrice": 4999,
     "discount": 40,
-    "images": ["https://picsum.photos/seed/p030/400/400"],
+    "images": [
+      "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&w=600&q=80"
+    ],
     "rating": 3.9,
     "reviewCount": 6789,
     "inStock": true,
-    "seller": { "id": "s017", "name": "NoiseStore", "rating": 4.1, "verified": true },
-    "specs": { "Display": "1.78 LCD", "Battery": "7 days", "GPS": "No", "Water Resistance": "IP68", "Health": "HR, SpO2" },
-    "tags": ["budget", "fitness", "student"],
-    "badges": ["Budget Pick"],
+    "seller": {
+      "id": "s017",
+      "name": "NoiseStore",
+      "rating": 4.1,
+      "verified": true
+    },
+    "specs": {
+      "Display": "1.78 LCD",
+      "Battery": "7 days",
+      "GPS": "No",
+      "Water Resistance": "IP68",
+      "Health": "HR, SpO2"
+    },
+    "tags": [
+      "budget",
+      "fitness",
+      "student"
+    ],
+    "badges": [
+      "Budget Pick"
+    ],
     "trustScore": 76,
     "deliveryDays": 2,
     "returnPolicy": "7-day returns",
     "reviews": [],
     "reviewSummary": {
-      "pros": ["Very cheap", "Good battery", "Basic features"],
-      "cons": ["No GPS", "Build quality", "Limited smart features"],
+      "pros": [
+        "Very cheap",
+        "Good battery",
+        "Basic features"
+      ],
+      "cons": [
+        "No GPS",
+        "Build quality",
+        "Limited smart features"
+      ],
       "sentiment": "Mixed"
     },
-    "needTags": ["budget", "fitness", "student"]
+    "needTags": [
+      "budget",
+      "fitness",
+      "student"
+    ]
   }
 ]
